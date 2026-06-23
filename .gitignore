@@ -167,3 +167,21 @@ kv_html.sqlite3
 folder1/zdjecia/
 data/app.sqlite3
 .DS_Store
+
+# Pliki spoza projektu zaliczeniowego
+zajecia*/
+co_occurrence.gexf
+data/ysex_6193.sav
+estonia_*.txt
+stems_lemmas*.py
+translation_ex*.py
+word_tag*.py
+~$*
+
+# folder1 — tylko skrypty projektu (reszta lokalnie)
+folder1/*
+!folder1/etap_1_cloudscraper.py
+!folder1/etap_2_cloudscraper.py
+!folder1/etap_3_cloudscraper.py
+!folder1/usuwanie.py
+!folder1/ogloszenia.txt
