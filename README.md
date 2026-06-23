@@ -64,7 +64,7 @@ See [`PLIKI.md`](PLIKI.md) for a full file index.
 
 ## NLP approach (course requirement)
 
-Instead of raw substring matching, reference words and document tokens are reduced to **Estonian stems** (PyStemmer). Binary features `nlp_bliskosc_morza` and `nlp_centrum_miasta` fire when stem sets overlap. Inspired by course scripts `stems_lemmas.py` and `word_tag.py`.
+Reference words and document tokens are reduced to **Estonian stems** (PyStemmer). Binary features `nlp_bliskosc_morza` and `nlp_centrum_miasta` fire when stem sets overlap. Inspired by course scripts `stems_lemmas.py` and `word_tag.py`.
 
 ## Submission archive
 
